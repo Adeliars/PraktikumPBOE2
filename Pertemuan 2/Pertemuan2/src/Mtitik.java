@@ -1,3 +1,9 @@
+/* Nama File    : Mtitik.java
+ * Deskripsi    : Berisi atribut dan method dalam class Titik
+ * Pembuat      : Adelia Clearesta
+ * Tanggal      : 19 Februari 2026
+ */
+
 public class Mtitik {
     public static void main(String[] args) {
 
