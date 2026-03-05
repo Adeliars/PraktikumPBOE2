@@ -10,7 +10,7 @@ public class Titik {
     double ordinat;
 
     /**************** METHOD ******************/
-    
+
     // Konstruktor untuk membuat titik (0,0)
     Titik() {
         absis = 0;
@@ -47,4 +47,4 @@ public class Titik {
     void printTitik() {
         System.out.println("Titik (" + absis + "," + ordinat + ")");
     }
-} // end class Titik
+}
