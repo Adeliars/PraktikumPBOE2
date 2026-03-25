@@ -9,7 +9,7 @@ import java.time.LocalDate;
 public class Pengusaha extends Manusia implements Pajak {
     // Atribut
     private String npwp;
-    static int counterPengusaha = 0;
+    private static int counterPengusaha = 0;
 
     // Konstruktor tanpa parameter
     public Pengusaha() {

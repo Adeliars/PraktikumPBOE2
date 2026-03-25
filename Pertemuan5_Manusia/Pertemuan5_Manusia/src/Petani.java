@@ -9,7 +9,7 @@ import java.time.LocalDate;
 public class Petani extends Manusia implements Pajak {
     // Atribut
     private String asal_kota;
-    static int counterPetani = 0;
+    private static int counterPetani = 0;
 
     // Konstruktor tanpa parameter
     public Petani() {
